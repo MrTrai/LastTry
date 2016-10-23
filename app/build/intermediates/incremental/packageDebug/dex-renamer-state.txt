@@ -1,0 +1,7 @@
+#Sun Oct 23 04:41:04 EDT 2016
+base.0=/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a327f0f15b36ea280b166f4018b39f6ddf49eacb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bc8cf1de6c5efebfcca15645cded35d19e55a564/classes.dex
+base.1=/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bc8cf1de6c5efebfcca15645cded35d19e55a564
+file.0=/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a327f0f15b36ea280b166f4018b39f6ddf49eacb/classes.dex

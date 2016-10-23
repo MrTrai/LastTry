@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="135349856575521"
+    token="-1141658228240373969"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="99" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="12" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="135349856575521"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="016f3206fe5df1be05b443cba3988d5d5d26b3ce">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bc8cf1de6c5efebfcca15645cded35d19e55a564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_0a500ede04d9dbb1bc6c78beeeed5daf8f2210b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_2c932875363492cd33b56cc883deeb231b96eae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_179ea4f1b60e8a3e5e9ad59df5096e755aa8d4d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_aa1f1b34de1dd4e2ba6e318708f6f1e8e926ddc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="048bf99a4e594c4d313fefd71ebebec84f193ea8">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a327f0f15b36ea280b166f4018b39f6ddf49eacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_60f51939cf20317af94b41678a34519319bac7db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/trai/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/trai/Desktop/HackGSU/HackGSUHarman/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_e3dfb09c648b1104690c781c0b721cb91a4cfdeb/classes.dex" />
+    </item>
+
+</items>
